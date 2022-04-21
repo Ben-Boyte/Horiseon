@@ -6,4 +6,6 @@
 
 # Screenshot of finish product;
 
+# Link to website: https://ben-boyte.github.io/Horiseon/ 
+
 # ![Screenshot](./assets/images/Screenshot.PNG "Screenshot")
